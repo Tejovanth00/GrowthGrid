@@ -23,7 +23,7 @@
     height: 700px;
     align-items: center;
     justify-content: flex-end;
-    
+    padding:20px;
 }
 .about-2{
     width: 50%;
@@ -54,6 +54,7 @@
     height: 700px;
     align-items:center;
     justify-content: start;
+    padding:20px;
 }
 .about-3{
     width: 50%;
@@ -71,6 +72,7 @@
     align-items: center;
     justify-content: start;
     background-size: cover;
+    padding:20px;
 }
 .contact{
     color: #f3c553;
