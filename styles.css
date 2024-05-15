@@ -1,3 +1,7 @@
+.navbar-toggler-icon {
+    color: #f3c533 !important;
+}
+
 .sec-1{
     display: flex;
     background-image: url(1.jpg);
